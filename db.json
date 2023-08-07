@@ -1,0 +1,130 @@
+{
+  "categories": [
+    {
+      "add_category": "Women's",
+      "id": 2
+    },
+    {
+      "add_category": "Baby's",
+      "id": 3
+    },
+    {
+      "add_category": "Accerssories",
+      "id": 4
+    },
+    {
+      "add_category": "Bags",
+      "id": 5
+    },
+    {
+      "add_category": "Shoes",
+      "id": 6
+    }
+  ],
+  "sub-categories": [
+    {
+      "sub_category": "Shirt",
+      "category": "Men's",
+      "id": 1
+    },
+    {
+      "sub_category": "dress",
+      "category": "Women's",
+      "id": 2
+    },
+    {
+      "sub_category": "toys",
+      "category": "Baby's",
+      "id": 3
+    },
+    {
+      "sub_category": "headphones wireless",
+      "category": "Accerssories",
+      "id": 4
+    },
+    {
+      "sub_category": "bags for travelling",
+      "category": "Bags",
+      "id": 5
+    },
+    {
+      "sub_category": "nike",
+      "category": "Shoes",
+      "id": 6
+    }
+  ],
+  "product-details": [
+    {
+      "product_name": "SHIRT THEORY Cotton Full Sleeves Casual Shirts || Premium Cotton Casual Shirts for Men II Stylish Shirt for Men II Latest Style Men Casual Shirt II Exclusive Luxury Shirts II",
+      "product_image": "https://m.media-amazon.com/images/I/51bXlHREeFS._UL1200_.jpg",
+      "product_new_price": "1,099",
+      "product_old_price": "2000",
+      "product_category": "Men's",
+      "product_sub_category": "Shirt",
+      "product_stock": "186",
+      "product_rating": "5",
+      "product_description": "Care Instructions: Dry Clean Only\nFit Type: Slim Fit\nModern Casual Shirt for men with perfect Regular casual slim fitting made with premium cotton fabric\nFull sleeves Maroon Collarless shirt for men\nFit: Slim Modern casual fit stylish chinese collar Shirt\nTeam it up with your favorite pair of denims or formal trousers to make distinctive premium style statement",
+      "id": 2
+    },
+    {
+      "product_name": "JEFF ERIC Casual Shirt for Men| Shirt for Men| Men Check Shirt| Mens Shirt| Checkered Shirt",
+      "product_image": "https://m.media-amazon.com/images/I/41lU9Xew3EL.jpg",
+      "product_new_price": "399",
+      "product_old_price": "599",
+      "product_category": "Men's",
+      "product_sub_category": "Shirt",
+      "product_stock": "93",
+      "product_rating": "4",
+      "product_description": "Care Instructions: Machine Wash\nFit Type: Slim Fit\nLightweight and Breathable fabric\nProvides ultimate comfort throughout the day\nSoft, comfortable and durable\nEasy maintenance\nMachine-Washable",
+      "id": 3
+    },
+    {
+      "product_name": "American Tourister 32 Ltrs Black Casual Backpack (AMT FIZZ SCH BAG 02 - BLACK)",
+      "product_image": "https://m.media-amazon.com/images/I/81KEKEDFUcL._SL1500_.jpg",
+      "product_new_price": "1,199",
+      "product_old_price": "1,599",
+      "product_category": "Bags",
+      "product_sub_category": "bags for travelling",
+      "product_stock": "231",
+      "product_rating": "5",
+      "product_description": "aptop Compatibility: No, Strap Type: Adjustable, Trolley Support: No. With Rain Cover : No\nOuter Material: Polyester, Color: Black\nWater Resistance: Water resistant , not Waterproof\nCapacity: 32 liters; Dimensions: 31.5 x 22 x 49.5 Centimeters\nNumber of Wheels: 0, Number of compartments: 3\nWarranty type: Manufacturer; 1 year International warranty valid for 1 year from the original date of\nMesh pockets on both sides to accommodate your sipper or bottle and umbrella\nMesh Padding on back & shoulder strap to provide comfort & better back support",
+      "id": 4
+    },
+    {
+      "product_name": "Nike Mens Renew Run 4 Running Shoe",
+      "product_image": "https://m.media-amazon.com/images/I/51QVJtLvjML._UL1000_.jpg",
+      "product_new_price": "4,647",
+      "product_old_price": "5875",
+      "product_category": "Shoes",
+      "product_sub_category": "nike",
+      "product_stock": "196",
+      "product_rating": "3",
+      "product_description": "Sole: Rubber\nClosure: Lace-Up\nFit Type: Regular\nShoe Width: Medium\nNIKE RENEW RUN 4 MENS SHOES\nNIKE WHITE SHOES\nNIKE MENS SHOES\nNIKE MULTI SHOES",
+      "id": 5
+    },
+    {
+      "product_name": "Brunte Kids Swing Cars Magic Swing Cars for Kids | Ride on Car for Kids, PP Scratch Free Wheels | Push Ride on Toy Kids Car | Ride on Magic Car for Kids to Drive 3 to 8 Years Boy Girl (Blue)",
+      "product_image": "https://m.media-amazon.com/images/I/51KVe3Su3hL._SL1200_.jpg",
+      "product_new_price": "1200",
+      "product_old_price": "1399",
+      "product_category": "Baby's",
+      "product_sub_category": "toys",
+      "product_stock": "25",
+      "product_rating": "5",
+      "product_description": "Let you child enjoy in outdoors & indoor. It's really benefit from the sense of fun and freedom, more security, that go away! Strong wheels and body, it is convenient to carry where ever you go. Brunte Magic car SWING Car is ISI certified. This magic car has good space on seat and footrest for their comfort and safety. Ride on Magic Swing Car come with stylish look, effortless operation with no gears\nMade in India, in addition to the thrill of driving this ride on toy car, your child will be able to develop and refine gross motor skills like balancing, coordination, and steering! It also encourages kids to be active and independent\nEasy & Smooth Ride. These kids ride on wiggle car can be easily operated without batteries, gears or pedals. Just use twist, turn and wiggle movement to steer! If little ones have trouble pushing the car forward through the steering wheel, they can still use their feet to push the car forward to have fun. No need for batteries, pedals or motors.\nSafe & Stable Design Three-wheel stable design and five-point support at the bottom prevent the baby from rolling over and leaning back. Collision-proof front design, give kids safety protection. smooth bearings and 360 degrees of free rotation give your baby a pleasant driving experience. Compression-resistant PP structure makes the wiggle car not easy to deform. Product dimensions: 31 inches (Length) x 14 inches (Width) x 16.5 inches (Height); Weight: 3.25 kgs",
+      "id": 6
+    },
+    {
+      "product_name": "Sony WH-1000XM4 Industry Leading Wireless Noise Cancellation Bluetooth Over Ear Headphones with Mic for Phone Calls, 30 Hours Battery Life, Quick Charge, AUX, Touch Control and Voice Control - Black",
+      "product_image": "https://m.media-amazon.com/images/I/51SKmu2G9FL._SL1500_.jpg",
+      "product_new_price": "22,990",
+      "product_old_price": "28,900 ",
+      "product_category": "Accerssories",
+      "product_sub_category": "headphones wireless",
+      "product_stock": "341",
+      "product_rating": "5",
+      "product_description": "Digital noise cancelling: Industry leading Active Noise Cancellation (ANC) lends a personalized, virtually soundproof experience at any situation;Voice assistant: Alexa, Google Assistant & Siri enabled (In-built) for voice access to music, information and more. Activate with a simple touch\nSpeak-to-chat: Headphones use an array of smart technologies to create a seamless, hands-free listening experience. For eg, simply start speaking to automatically pause your music in Speak-to-Chat;Wearing Detection: Proximity sensor and two acceleration sensors in your headphones can detect whether you're wearing them or not, then adapt playback accordingly to help save battery power\nQuick attention mode: Cover the right ear cup with your palm to turn down music for instant, easy conversation;Smart listening: WH-1000XM4 adjusts the ambient sound to your activity to give you the best noise cancellation\nLong battery life/Quick Charge: A single charge provides up to 30 hrs of playtime for reliable all day listening and Quick charge for 10min charge for 5 hours play back;Multipoint connection : It can be paired with two Bluetooth devices at the same time.So when a call comes in, your headphones know which device is ringing and connect to the right one automatically.; Touch controls: Change the track, turn the volume up or down and take or make calls by tapping or swiping the panel with your fingertip\nWarranty Description: 1 Year Warranty Provided By The Manufacturer From Date Of Purchase",
+      "id": 7
+    }
+  ]
+}

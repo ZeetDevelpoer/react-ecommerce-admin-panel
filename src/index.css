@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Poppins Fonts */
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+body {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: poppins;
+}
+
+.scrollable-div {
+     overflow: auto; /* or overflow-y: scroll; */
+     scrollbar-width: thin; /* For Firefox */
+}
+
+::-webkit-scrollbar,
+.scrollable-div::-webkit-scrollbar {
+     width: 5px; /* Adjust as needed */
+}
+
+::-webkit-scrollbar-thumb,
+.scrollable-div::-webkit-scrollbar-thumb {
+     background-color: transparent; /* Hide the thumb */
+}
+
+.css-e4w4as-MuiFormLabel-root-MuiInputLabel-root {
+     color: #ffffff6c !important;
+}
+
+.css-10botns-MuiInputBase-input-MuiFilledInput-input {
+     color: #fff !important;
+}
+
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+     border: 2px solid #3b82f6 !important;
+}
+
+.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root svg {
+     color: #3b82f6;
+}
+
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+     color: #d3d3d3 !important;
+}
